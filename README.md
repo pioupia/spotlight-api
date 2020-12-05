@@ -10,9 +10,9 @@ This npm package allows you to monetize your Discord bot with the spotlight api 
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install tiktok-stats.
+Use the package manager [npm](https://www.npmjs.com/) to install spotlight-api.
 ```bash
-npm i tiktok-stats
+npm i spotlight-api
 ```
 
 ## Usage
