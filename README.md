@@ -57,7 +57,7 @@ message.channel.send(newEmbed)
 | **setEmbed**   | _Add advertising to your embed._ | `none` | required |
 
 
-#### If you have correctly reseinged all previous options in your main file/event ready, you can follow the code above. Otherwise, use the code below :
+#### If you have correctly reseinged all previous options in your main file/event ready, you can follow the code above. Otherwise, use the code below :
 
 ```javascript
 const spotlight = require("spotlight-api");
