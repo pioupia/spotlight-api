@@ -1,4 +1,4 @@
-## Spotlight-api
+# Spotlight-api
 
 This npm package allows you to monetize your Discord bot with the spotlight api !
 
